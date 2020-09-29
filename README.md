@@ -1,2 +1,2 @@
 # Coursera_Capstone_Project
-Exploring Foursquare API
+Exploring Collision Soverity
